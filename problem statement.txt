@@ -1,0 +1,1 @@
+#Build a simple URL shortener service using Ruby and the Sinatra web framework. The service should accept a long URL as input, generate a unique short URL and store the mapping in a suitable data structure. Demonstrate how GitHub Copilot can provide suggestions for implementing the URL shortening algorithm, handling user input, and managing the data store.
